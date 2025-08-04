@@ -43,8 +43,8 @@ db.helloDoc.countDocuments()
 EOF
 ```
 
-Откройте в браузере http://<ip виртуальной машины>:8080
+Откройте в браузере http://http://localhost:8080
 
 ## Доступные эндпоинты
 
-Список доступных эндпоинтов, swagger http://<ip виртуальной машины>:8080/docs
+Список доступных эндпоинтов, swagger http://http://localhost:8080/docs
