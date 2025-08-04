@@ -8,7 +8,7 @@
 docker compose up -d
 ```
 
-Заполняем mongodb данными
+Запускаем приложение и кластер
 
 ```shell
 ./scripts/init_mongo_cluster.sh
